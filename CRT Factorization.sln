@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRT Factorization", "CRT Factorization.csproj", "{F3549E06-72DD-4997-B91B-47CC32275E65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3549E06-72DD-4997-B91B-47CC32275E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3549E06-72DD-4997-B91B-47CC32275E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3549E06-72DD-4997-B91B-47CC32275E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3549E06-72DD-4997-B91B-47CC32275E65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {479C943A-7C2F-47E7-9B3F-30D6B380939D}
+	EndGlobalSection
+EndGlobal
